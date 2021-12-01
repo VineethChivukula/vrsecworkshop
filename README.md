@@ -4,9 +4,9 @@
 #### Heading 4
 ##### Heading 5
 ###### Heading 6
-*italic type of font style*
+*Italic Type Of Font Style*
 
-**bold type font style**
+**Bold Type Font Style**
 
 ***Both Bold And Italic Type Font Style***
 
@@ -21,4 +21,7 @@
     3. chilli
 
 [Google](https://www.google.com/)
+
+![Spider-man](https://i.ytimg.com/vi/5YFq7xgeEwQ/maxresdefault.jpg)
+
 
