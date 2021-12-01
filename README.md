@@ -31,3 +31,7 @@ Sno|Name
 3|Tom
 
 ~~This was mistaken text~~
+
+>Quote
+
+![DARK MODE](https://www.denofgeek.com/wp-content/uploads/2020/12/spider-verse-sinister-six.jpg?fit=1200%2C676#gh-dark-mode-only)
